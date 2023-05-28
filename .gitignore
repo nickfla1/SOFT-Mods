@@ -5,3 +5,5 @@
 /.vs
 /Shared/obj
 /SOFT_HookMod/obj
+/Hook/obj
+/Shared/bin/Debug/net6.0
